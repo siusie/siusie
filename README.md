@@ -1,4 +1,4 @@
-## Hi there! I’m Sue (she/they)👋
+## 👋 Hi there! I’m Sue (she/they)
 <a href="mailto:susnchn@gmail.com">![susnchn@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
 - Good to see you! I'm currently studying at Seneca College
@@ -6,7 +6,7 @@
 
 ## 🌞 I'm Currently Doing
 - Computer Programming student at <a href="https://www.senecacollege.ca/home.html">Seneca College</a>
-- Working on Python and React!
+- Learning Python and React!
 
 ## 🌈 What I'm Pursuing
 - To explore various programming languages
