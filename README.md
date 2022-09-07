@@ -2,7 +2,7 @@
 <a href="mailto:susnchn@gmail.com">![susnchn@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
 - Nice to meet you!
-- I'm passionate about various IT techologies including web-dev and software programming
+- I'm passionate about various IT techologies including web development and software programming
 
 ## 🌞 I'm Currently Doing
 - Studying Computer Programming at <a href="https://www.senecacollege.ca/home.html">Seneca College</a>
