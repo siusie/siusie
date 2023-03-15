@@ -2,11 +2,11 @@
 - Nice to meet you!
 - I&apos;m passionate about various IT techologies including web development and software programming
 
-## 🌞 I&apos;m Currently...
+## 🌞 I&apos;m currently...
 - Studying <a href="https://www.senecacollege.ca/programs/fulltime/CPA.html">Computer Programming &amp; Analysis</a> at Seneca College
 - Learning web development using ASP.NET MVC!
 
-## 💻 Languages and Tools I use
+## 💻 Languages and tools I use
 <p align="left"> 
 <a href="https://www.w3schools.com/c/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
 <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a> 
