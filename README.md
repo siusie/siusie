@@ -28,7 +28,7 @@
 </p>
 
 ##
-<a href="mailto:xchen339@myseneca.ca">![xchen339@myseneca.ca](https://img.shields.io/badge/Email&nbsp;Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+<a href="mailto:xchen339@myseneca.ca">![xchen339@myseneca.ca](https://img.shields.io/badge/Contact&nbsp;Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 <!---
 suscx/suscx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
