@@ -1,8 +1,8 @@
-## 👋 Hi there! I’m Susan (she/they)
+## 👋 Hi there! I&apos;m Susan (she/they)
 - Nice to meet you!
 - I&apos;m passionate about various IT techologies including web development and software programming
 
-## 🌞 I'm Currently...
+## 🌞 I&apos;m Currently...
 - Studying <a href="https://www.senecacollege.ca/programs/fulltime/CPA.html">Computer Programming &amp; Analysis</a> at Seneca College
 - Learning web development using ASP.NET MVC!
 
@@ -23,6 +23,7 @@
 <a href="https://www.oracle.com/ca-en/database/technologies/appdev/sqldeveloper-landing.html" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>  
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>   
 <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+<a href="https://https://azure.microsoft.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" alt="azure" width="40" height="40"/> </a>
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg" alt="vs" width="40" height="40"/> </a>  
 </p>
 
