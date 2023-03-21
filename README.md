@@ -4,7 +4,7 @@
 
 ## 🌞 I&apos;m currently...
 - Studying <a href="https://www.senecacollege.ca/programs/fulltime/CPA.html">Computer Programming &amp; Analysis</a> at Seneca College
-- Learning web development using ASP.NET MVC!
+- Learning web development using ASP.NET!
 
 ## 💻 Languages and tools I use
 <p align="left"> 
