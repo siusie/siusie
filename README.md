@@ -1,4 +1,4 @@
-## 👋 Hi there! I&apos;m Susan (she/they)
+## 👋 Hi there!
 - Nice to meet you!
 - I&apos;m passionate about various IT techologies including web development and software programming
 
