@@ -1,6 +1,6 @@
 ## 👋 Hi there!
 - Nice to meet you!
-- I&apos;m passionate about various IT techologies including web development and software programming
+- I&apos;m passionate about various IT technologies including web development and software programming
 
 ## 🌞 I&apos;m currently...
 - Studying <a href="https://www.senecacollege.ca/programs/fulltime/CPA.html">Computer Programming &amp; Analysis</a> at Seneca College
