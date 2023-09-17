@@ -25,6 +25,7 @@
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>   
 <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 <a href="https://https://azure.microsoft.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" alt="azure" width="40" height="40"/> </a>
+<a href="https://aws.amazon.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="azure" width="40" height="40"/> </a>
 
 ##
 <a href="mailto:xchen339@myseneca.ca">![xchen339@myseneca.ca](https://img.shields.io/badge/Contact&nbsp;Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
