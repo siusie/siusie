@@ -29,6 +29,28 @@
 
 ##
 <a href="mailto:xchen339@myseneca.ca">![xchen339@myseneca.ca](https://img.shields.io/badge/Contact&nbsp;Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+
+---
+
+```
+//about me:
+const aboutMe = () => {
+    return {
+        name: "Susan",
+        pronouns: ["she/her", they/them"],
+        keywords: ["React", "Next.js", "web dev", "full-stack", "software dev"],
+        eduBackground: {
+                        Diploma: { SenecaCollege: "Computer Programming and Analysis" },
+                        Bachelors: { UofT: "Accounting and Finance" },
+        },
+        favoriteFood: ["ice cream", "cake", "noodles"],
+        like: ["cooking", "running", "cats"],
+        dislike: "summer",
+        challenge: "trying to improve my full-stack web dev skills",
+        myFuture: undefined
+    }
+}
+```
 <!---
 suscx/suscx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
