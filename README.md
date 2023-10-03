@@ -33,7 +33,7 @@
 ---
 
 ```
-//about me:
+// about me:
 const aboutMe = () => {
     return {
         name: "Susan",
