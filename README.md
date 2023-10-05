@@ -44,8 +44,8 @@ const aboutMe = () => {
                         Bachelors: { UofT: "Accounting and Finance" },
         },
         favoriteFood: ["ice cream", "cake", "noodles"],
-        like: ["cooking", "running", "cats"],
-        dislike: "summer",
+        likes: ["cooking", "running", "cats"],
+        dislikes: "summer",
         challenge: "trying to improve my full-stack web dev skills",
         myFuture: undefined
     }
