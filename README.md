@@ -28,7 +28,7 @@
 <a href="https://aws.amazon.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="azure" width="40" height="40"/> </a>
 
 ##
-<a href="mailto:xchen339@myseneca.ca">![xchen339@myseneca.ca](https://img.shields.io/badge/Contact&nbsp;Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+<a href="mailto:siusie@proton.me">![siusie@proton.me](https://img.shields.io/badge/Contact&nbsp;Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 
 ---
 
