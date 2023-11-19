@@ -1,7 +1,7 @@
 ## 👋 Hi there!
 - Nice to meet you!
-- I&apos;m interested in web development
-- Always looking to explore various IT technologies
+- I&apos;m interested in web and software development
+- Always looking to explore various technologies
 
 ## 🌞 I&apos;m currently...
 - Studying <a href="https://www.senecacollege.ca/programs/fulltime/CPA.html">Computer Programming &amp; Analysis</a> at Seneca College
